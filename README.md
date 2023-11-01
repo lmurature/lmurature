@@ -2,6 +2,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmurature&count_private=true&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 
+- 🔭 I’m currently working in Devexperts GmbH.
+- ⚡ Fun fact: Currently using b1tbuck3t as a VCS, Github is missing out on my lovely Java code 🖤
+
 <!--
 **lmurature/lmurature** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
